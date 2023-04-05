@@ -1,0 +1,620 @@
+Committer: adeeba505
+Date: Tue, 4 Apr 2023 10:57:18 +1200
+
+Summary: changed it so that all the pages in my nav get bigger when you hover over it so that it is easier to use
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Tue, 4 Apr 2023 10:54:32 +1200
+
+Summary: moved my script code from the font awesome to my head
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Tue, 4 Apr 2023 10:50:46 +1200
+
+Summary: added the meta charset and title for my websites and moved all the code to the top of my web
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Tue, 4 Apr 2023 10:46:22 +1200
+
+Summary: added my meta charset and title and moved all the code to the top
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Tue, 4 Apr 2023 10:41:15 +1200
+
+Summary: put doctype code to show that all my code is in HTML
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Tue, 4 Apr 2023 10:37:15 +1200
+
+Summary: I put doctype to show that the whole code is used in HTML
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Tue, 4 Apr 2023 10:25:46 +1200
+
+Summary: changed the background colour and font colour to make it easy to use
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Tue, 4 Apr 2023 10:24:37 +1200
+
+Summary: added the active class code so I can make it more accessible
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Tue, 4 Apr 2023 10:22:31 +1200
+
+Summary: I added higlighted the navigation so that the parents will know what website they are on
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 21:36:02 +1200
+
+Summary: added the icons instead of bullet points to make website more interesting
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 21:31:53 +1200
+
+Summary: changed the bullet points to an icon of a heart
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 21:21:32 +1200
+
+Summary: made the colours of all the websites more red so it had more of a contrast and was easier to read
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 21:19:09 +1200
+
+Summary: added an icon to the home page web of all my pages
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 21:17:39 +1200
+
+Summary: added an icon to my home page web and made it more red so there was more contrast
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 21:06:28 +1200
+
+Summary: added a home page on each of my website since I had forgotten to add that in earlier.
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 21:04:40 +1200
+
+Summary: removed the robotic arm image since I didnt think it looked nice on my website and I found it unnecessary
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 21:03:03 +1200
+
+Summary: added the image to my code and changed the alt to Kaiara so the disabled can access it aswell
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 21:02:19 +1200
+
+Summary: addedher image into the file so I can add it to my website
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 21:01:39 +1200
+
+Summary: Changed the heading, bullet points and the paragraph so it matched with the information that I was presented on Kaiaras
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 21:00:04 +1200
+
+Summary: added ruoxis website to Kaiaras so I can tweak it to fit Kaiara instead of starting from scratch
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 20:58:56 +1200
+
+Summary: added her image and changed the alt tag to her name so the disabled still have access to it
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 20:58:17 +1200
+
+Summary: added her image to the file so I can add it to her website to show people what she looks like (more about her)
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 20:57:27 +1200
+
+Summary: Changed the heading, bullet points and paragraphs to fit Aniyahs website
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 20:55:55 +1200
+
+Summary: added Ruoxis code to I can tweak it to fit Aaniyahs website
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 20:54:55 +1200
+
+Summary: added Lucy's image and changed the alt tag to her name
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 20:54:14 +1200
+
+Summary: added the image so I can add it to Lucy's website
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 20:53:29 +1200
+
+Summary: changed the heading, bullet points and paragraph to fit with Lucy
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 20:52:09 +1200
+
+Summary: Copy and pasted Ruoxis website code onto Lucys so I can easily tweak it to fit Lucy
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 20:51:01 +1200
+
+Summary: added Priyas image of herself onto the website so the parents can know what she looks like
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 20:50:00 +1200
+
+Summary: added the image so I can add it onto Priyas website
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 20:49:00 +1200
+
+Summary: Changed the information on the bullet points and in the paragraph so it will match priya
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 20:47:23 +1200
+
+Summary: added all my code from my previous page so I can just tweak it for Priyas
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 20:46:17 +1200
+
+Summary: changed the font size of my bullet points and paragraphs to make it look better and prettier
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 20:41:56 +1200
+
+Summary: styled my bullet points so it looks pleasing and fits in with my website
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 20:40:11 +1200
+
+Summary: accidently added a website instead of the image so I tweaked it to show the right thing
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 20:39:15 +1200
+
+Summary: added the images to my code and added an alt tag so that blind people can still be notified on what it is
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 20:37:54 +1200
+
+Summary: added the pictures to the file so I can insert it into my webpage
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 20:36:05 +1200
+
+Summary: added the bullet points so that it contained information related to her
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Mon, 3 Apr 2023 20:34:24 +1200
+
+Summary: copy and pasted all of my code on my home page to her page and tweaked it so that it has her name in the header and the paragraphs containinfo about her
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Fri, 31 Mar 2023 21:54:20 +1300
+
+Summary: Update our_school.html
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Fri, 31 Mar 2023 16:16:36 +1300
+
+Summary: made the heading and subheading bigger using the font-size property
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Fri, 31 Mar 2023 16:11:42 +1300
+
+Summary: Redid all the font colours and made the colour of the paragraphs more red so it contrasted more with the yellow background
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Fri, 31 Mar 2023 16:05:28 +1300
+
+Summary: I changed back to the background colour of the prototype mr hullen likes and removed all the unnecessary code i didn't need anymore
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Thu, 30 Mar 2023 18:25:22 +1300
+
+Summary: changed the background colour of my nav for my nav to make it easier to find
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Thu, 30 Mar 2023 18:23:27 +1300
+
+Summary: changed the colours of all my fonts to make it prettier and so that you can read the words, tweaked the background colour to make it more appealing aswell
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Thu, 30 Mar 2023 18:10:45 +1300
+
+Summary: made the grid and layout for the third prototype
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Thu, 30 Mar 2023 17:48:08 +1300
+
+Summary: changed the colours of all the fonts to make it like my plan, looking pretty and organized. Also changed fonts to make it easier to read and the website looks more classy
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Thu, 30 Mar 2023 17:33:57 +1300
+
+Summary: added the fonts for my second prototype on my heading, subheading and body
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Thu, 30 Mar 2023 17:29:57 +1300
+
+Summary: I pressed control + / to make everything pause so that I can continue with my second prototype while still having this one here
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Thu, 30 Mar 2023 17:18:55 +1300
+
+Summary: added a hover element to my links so the people that view my website will find it easy to use
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Thu, 30 Mar 2023 17:17:28 +1300
+
+Summary: added a border and colour to my links to make it prettier and look more organized
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Thu, 30 Mar 2023 17:14:09 +1300
+
+Summary: added more text that describes more of what my website is about
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Thu, 30 Mar 2023 17:12:27 +1300
+
+Summary: added a div element to my code and tweaked the border radius
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Thu, 30 Mar 2023 17:07:11 +1300
+
+Summary: changed the colour of the border to match my plan
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Thu, 30 Mar 2023 17:05:23 +1300
+
+Summary: changed all the websites and added more websites for each students profile.
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Thu, 30 Mar 2023 17:00:19 +1300
+
+Summary: added a border for all my images
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Thu, 30 Mar 2023 11:33:14 +1300
+
+Summary: added my grid to the code so my website looks professional, pretty and organized
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Thu, 30 Mar 2023 10:58:59 +1300
+
+Summary: added a grid to my CSS
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Thu, 30 Mar 2023 10:56:38 +1300
+
+Summary: added colour to the h2 and p
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Thu, 30 Mar 2023 10:53:06 +1300
+
+Summary: added a background colour to my body
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Thu, 30 Mar 2023 10:47:22 +1300
+
+Summary: Added fonts to my first prototype and changed them to Playfair Display and Roboto and I added a h2 that says Get to Know Us!
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Wed, 29 Mar 2023 18:36:44 +1300
+
+Summary: added the image code to my style and made the images smaller
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Wed, 29 Mar 2023 18:33:28 +1300
+
+Summary: added the my full name in the the footer so people will know it was made by me
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Wed, 29 Mar 2023 18:32:13 +1300
+
+Summary: added the images to my codings and added the alt feature so people who are blind will still be able to understand my website
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Wed, 29 Mar 2023 18:29:23 +1300
+
+Summary: I added all the photos I needed into my folder so I can add them to my code
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Wed, 29 Mar 2023 18:24:13 +1300
+
+Summary: added information into my main, talking about what the school does and its goals
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Thu, 23 Mar 2023 10:47:02 +1300
+
+Summary: added my multiple websites to the front page inside the nav element
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Thu, 23 Mar 2023 10:42:01 +1300
+
+Summary: I added all the semantic elements and also added my heading
+
+Description: 
+
+---
+
+Committer: adeeba505
+Date: Wed, 22 Mar 2023 15:05:36 +1300
+
+Summary: Initial commit
+
+Description: 
+
+---
